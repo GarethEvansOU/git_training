@@ -1,6 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
-
-I'm an added line.
-
-I'm another.
+Line add for new change_alice branch.
