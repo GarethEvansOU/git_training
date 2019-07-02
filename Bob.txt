@@ -1,4 +1,3 @@
 Hi!! I'm Bob. I've been here for a while now.
 
-
-Line added to Bob.
+Line added for merge task.
